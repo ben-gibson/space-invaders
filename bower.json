@@ -2,7 +2,7 @@
   "name": "space-invaders",
   "description": "A basic Space Invaders game in es6",
   "version": "1.0.0",
-  "homepage": "https://gitlab.com/Gibbo/space-invaders",
+  "homepage": "https://github.com/ben-gibson/space-invaders",
   "license": "MIT",
   "private": true,
   "dependencies": {

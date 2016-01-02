@@ -3,7 +3,7 @@
   "private": true,
   "version": "1.0.0",
   "description": "A basic space invaders game written in es6",
-  "repository": "https://gitlab.com/Gibbo/space-invaders",
+  "repository": "https://github.com/ben-gibson/space-invaders",
   "license": "MIT",
   "devDependencies": {
     "babel-cli": "^6.3.17",
